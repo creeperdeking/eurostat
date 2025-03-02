@@ -118,6 +118,7 @@ if __name__ == "__main__":
             "Population: 0 to 14 years",
             "Population: 15 to 64 years",
             "Population: 65 years and over",
+            "Population: 75 years and over",
             "Total population",
             "Employment, persons: total economy",
             "Total unemployment :- Member States: definition EUROSTAT",
